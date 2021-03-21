@@ -19,7 +19,7 @@ CREATE TABLE pets
 INSERT INTO pets
   (name, species, photo_url, age, notes, available)
 VALUES
-  ('Woofly', 'dog', 'https://www.what-dog.net/Images/faces2/scroll001.jpg', 3, 'Incredibly adorable.', 't'),
+  ('Woofly', 'dog', 'https://bingvsdevportalprodgbl.blob.core.windows.net/demo-images/c5c7398b-850b-4a7d-b0d9-ef5e10d97bc0.jpg', 3, 'Incredibly adorable.', 't'),
   ('Porchetta', 'porcupine', 'http://kids.sandiegozoo.org/sites/default/files/2017-12/porcupine-incisors.jpg', 4, 'Somewhat spiky!', 't'),
   ('Snargle', 'cat', 'https://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg', null, null, 't'),
   ('Dr. Claw', 'cat', null, null, null, 't');
